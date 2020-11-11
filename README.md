@@ -9,6 +9,6 @@ Natural Text Generation is a good stepping stone for advancement in NLP and in t
 - [ ] Preprocessing of the Dataset
 - [ ] Training the model
 - [ ] Working on making the interface better
-- [ ] Providing more topics for the 
+- [ ] Providing more topics for the model
 ## License
 This project is under the Apache License. See [LICENSE](LICENSE) for Details.
